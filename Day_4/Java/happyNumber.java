@@ -9,6 +9,7 @@ public class happyNumber {
         } else {
             System.out.println("Not a Happy Number");
         }
+        sc.close();
 
     }
 
